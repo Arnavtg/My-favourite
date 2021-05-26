@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding-top: 800px;
+    background-color:khaki;
 }
 
 .profile {
@@ -92,4 +93,13 @@ p {
     font-size: 45px;
     line-height: 1.3;
     font-family: 'Playfair Display', serif;
+}
+html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color: aqua;
 }
